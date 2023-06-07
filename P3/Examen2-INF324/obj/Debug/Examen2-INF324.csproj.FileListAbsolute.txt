@@ -1,0 +1,33 @@
+C:\Users\Jorge\source\repos\Examen2-INF324\Examen2-INF324\bin\Debug\Examen2-INF324.exe.config
+C:\Users\Jorge\source\repos\Examen2-INF324\Examen2-INF324\bin\Debug\Examen2-INF324.exe
+C:\Users\Jorge\source\repos\Examen2-INF324\Examen2-INF324\bin\Debug\Examen2-INF324.pdb
+C:\Users\Jorge\source\repos\Examen2-INF324\Examen2-INF324\obj\Debug\Examen2-INF324.csprojAssemblyReference.cache
+C:\Users\Jorge\source\repos\Examen2-INF324\Examen2-INF324\obj\Debug\Examen2_INF324.Form1.resources
+C:\Users\Jorge\source\repos\Examen2-INF324\Examen2-INF324\obj\Debug\Examen2_INF324.Properties.Resources.resources
+C:\Users\Jorge\source\repos\Examen2-INF324\Examen2-INF324\obj\Debug\Examen2-INF324.csproj.GenerateResource.cache
+C:\Users\Jorge\source\repos\Examen2-INF324\Examen2-INF324\obj\Debug\Examen2-INF324.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\source\repos\Examen2-INF324\Examen2-INF324\obj\Debug\Examen2-INF324.exe
+C:\Users\Jorge\source\repos\Examen2-INF324\Examen2-INF324\obj\Debug\Examen2-INF324.pdb
+C:\Users\deimo\OneDrive\Escritorio\Examen INF-324\Comprimido\examen324-2-2022-main\Pregunta 3\Examen2-INF324\obj\Debug\Examen2-INF324.csproj.AssemblyReference.cache
+C:\Users\deimo\OneDrive\Escritorio\Examen INF-324\Comprimido\examen324-2-2022-main\Pregunta 3\Examen2-INF324\obj\Debug\Examen2_INF324.Form1.resources
+C:\Users\deimo\OneDrive\Escritorio\Examen INF-324\Comprimido\examen324-2-2022-main\Pregunta 3\Examen2-INF324\obj\Debug\Examen2_INF324.Properties.Resources.resources
+C:\Users\deimo\OneDrive\Escritorio\Examen INF-324\Comprimido\examen324-2-2022-main\Pregunta 3\Examen2-INF324\obj\Debug\Examen2-INF324.csproj.GenerateResource.cache
+C:\Users\deimo\OneDrive\Escritorio\Examen INF-324\Comprimido\examen324-2-2022-main\Pregunta 3\Examen2-INF324\obj\Debug\Examen2-INF324.csproj.CoreCompileInputs.cache
+C:\Users\deimo\OneDrive\Escritorio\Examen INF-324\Comprimido\examen324-2-2022-main\Pregunta 3\Examen2-INF324\obj\Debug\Examen2-INF324.exe
+C:\Users\deimo\OneDrive\Escritorio\Examen INF-324\Comprimido\examen324-2-2022-main\Pregunta 3\Examen2-INF324\obj\Debug\Examen2-INF324.pdb
+C:\Users\deimo\OneDrive\Escritorio\Examen INF-324\Comprimido\examen324-2-2022-main\Pregunta 3\Examen2-INF324\bin\Debug\Examen2-INF324.exe.config
+C:\Users\deimo\OneDrive\Escritorio\Examen INF-324\Comprimido\examen324-2-2022-main\Pregunta 3\Examen2-INF324\bin\Debug\Examen2-INF324.exe
+C:\Users\deimo\OneDrive\Escritorio\Examen INF-324\Comprimido\examen324-2-2022-main\Pregunta 3\Examen2-INF324\bin\Debug\Examen2-INF324.pdb
+C:\Users\deimo\OneDrive\Escritorio\Examen INF-324\PARA EL CARLOS\P3\Examen2-INF324\bin\Debug\Examen2-INF324.exe.config
+C:\Users\deimo\OneDrive\Escritorio\Examen INF-324\PARA EL CARLOS\P3\Examen2-INF324\bin\Debug\Examen2-INF324.exe
+C:\Users\deimo\OneDrive\Escritorio\Examen INF-324\PARA EL CARLOS\P3\Examen2-INF324\bin\Debug\Examen2-INF324.pdb
+C:\Users\deimo\OneDrive\Escritorio\Examen INF-324\PARA EL CARLOS\P3\Examen2-INF324\obj\Debug\Examen2-INF324.csproj.AssemblyReference.cache
+C:\Users\deimo\OneDrive\Escritorio\Examen INF-324\PARA EL CARLOS\P3\Examen2-INF324\obj\Debug\Examen2_INF324.Form1.resources
+C:\Users\deimo\OneDrive\Escritorio\Examen INF-324\PARA EL CARLOS\P3\Examen2-INF324\obj\Debug\Examen2_INF324.Properties.Resources.resources
+C:\Users\deimo\OneDrive\Escritorio\Examen INF-324\PARA EL CARLOS\P3\Examen2-INF324\obj\Debug\Examen2-INF324.csproj.GenerateResource.cache
+C:\Users\deimo\OneDrive\Escritorio\Examen INF-324\PARA EL CARLOS\P3\Examen2-INF324\obj\Debug\Examen2-INF324.csproj.CoreCompileInputs.cache
+C:\Users\deimo\OneDrive\Escritorio\Examen INF-324\PARA EL CARLOS\P3\Examen2-INF324\obj\Debug\Examen2-INF324.exe
+C:\Users\deimo\OneDrive\Escritorio\Examen INF-324\PARA EL CARLOS\P3\Examen2-INF324\obj\Debug\Examen2-INF324.pdb
+C:\Users\USUARIO\Desktop\PREGUNTA 3\P3\Examen2-INF324\bin\Debug\Examen2-INF324.exe.config
+C:\Users\USUARIO\Desktop\PREGUNTA 3\P3\Examen2-INF324\obj\Debug\Examen2-INF324.exe
+C:\Users\USUARIO\Desktop\PREGUNTA 3\P3\Examen2-INF324\obj\Debug\Examen2-INF324.pdb
